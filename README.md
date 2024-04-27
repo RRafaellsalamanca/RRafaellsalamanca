@@ -4,6 +4,7 @@
 <div> <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/Photoshop-35b4e8?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
+
  ## 
 ## 🐱‍👤🐱‍💻🐱‍🐉🐱‍🏍: Sobre Mim
 
