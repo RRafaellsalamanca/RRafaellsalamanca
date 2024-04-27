@@ -3,12 +3,11 @@
 ## 💻 Ferramentas e Tecnologias
 <div> <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
+ ## 
+## 🐱‍👤🐱‍💻🐱‍🐉🐱‍🏍🤓: Sobre Mim
+
+
+<div>
+  <p> Meu nome é Rafael Salamanca! estou cursando o ensino medio no colegio pré-medico! atualmente no segundo ano... tambem estou estudando programação front-end no senai! :)
+  </p>
 </div>
- 
- <div>
- 🐱‍🏍🐱‍🐉🐱‍💻🐱‍👤: Sobre mim
-
-
-  <p> Meu nome é Rafael Salamanca! estou cursando o ensino medio no colegio pré-medico, atualmente no segundo ano! tambem estou tendo aulas de programação front-end no senai. </p>
-</div>
-
