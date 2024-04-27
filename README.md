@@ -26,14 +26,4 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-<div>
-Loanding Snake Status
-</div>
-<div>
-  <picture align="center"> 
-    <img src="https://github.com/RRafaellsalamanca
-/RRafaellsalamanca
-/blob/main/snake-svg.svg">
-  </picture>
-</div>
+
