@@ -10,7 +10,7 @@
 
 
 <div>
-  <p> Meu nome é Rafael Salamanca! estou cursando o ensino medio no colegio pré-medico! atualmente no segundo ano... tambem estou estudando programação front-end no senai! :)
+  <p> Meu nome é Rafael Salamanca! estou cursando o ensino fundamental no colegio pré-medico! atualmente no nono ano... tambem estou estudando programação front-end no senai! :)
   </p>
 </div>
 
